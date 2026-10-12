@@ -1,0 +1,18 @@
+{
+  "type": "sdbf:world_tree_small",
+  "kind": "shore",
+  "templates": [
+    "sdbf:world_tree/old_reed_landing/intact",
+    "sdbf:world_tree/old_reed_landing/ruined",
+    "sdbf:world_tree/old_reed_landing/overgrown"
+  ],
+  "anchor": [
+    10,
+    7,
+    9
+  ],
+  "biomes": "#sdbf:world_tree_sea",
+  "step": "surface_structures",
+  "spawn_overrides": {},
+  "terrain_adaptation": "none"
+}

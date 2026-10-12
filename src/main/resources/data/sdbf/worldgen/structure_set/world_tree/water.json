@@ -1,0 +1,18 @@
+{
+  "structures": [
+    {
+      "structure": "sdbf:world_tree/old_reed_landing",
+      "weight": 1
+    },
+    {
+      "structure": "sdbf:world_tree/submerged_sampling_capsule",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 14,
+    "separation": 7,
+    "salt": 410403
+  }
+}

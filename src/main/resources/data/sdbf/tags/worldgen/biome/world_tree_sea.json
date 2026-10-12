@@ -1,0 +1,8 @@
+{
+  "replace": true,
+  "values": [
+    "sdbf:world_tree_roots",
+    "sdbf:world_tree_shallows",
+    "sdbf:world_tree_depths"
+  ]
+}

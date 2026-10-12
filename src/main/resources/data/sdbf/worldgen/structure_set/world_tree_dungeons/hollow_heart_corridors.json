@@ -1,0 +1,18 @@
+{
+  "structures": [
+    {
+      "structure": "sdbf:world_tree_dungeons/hollow_heart_corridors",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 36,
+    "separation": 18,
+    "salt": 510511,
+    "exclusion_zone": {
+      "other_set": "sdbf:world_tree/land",
+      "chunk_count": 3
+    }
+  }
+}

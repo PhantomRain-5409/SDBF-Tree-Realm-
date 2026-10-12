@@ -1,0 +1,15 @@
+{
+  "name": "sdbf:world_tree_dungeons/canopy_village/level_0",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "sdbf:world_tree_dungeons/canopy_village/level_0",
+        "projection": "rigid",
+        "processors": "minecraft:empty"
+      }
+    }
+  ]
+}

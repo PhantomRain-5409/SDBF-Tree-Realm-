@@ -1,0 +1,18 @@
+{
+  "type": "sdbf:world_tree_small",
+  "kind": "shrine",
+  "templates": [
+    "sdbf:world_tree/root_shrine/intact",
+    "sdbf:world_tree/root_shrine/ruined",
+    "sdbf:world_tree/root_shrine/overgrown"
+  ],
+  "anchor": [
+    8,
+    8,
+    10
+  ],
+  "biomes": "#sdbf:world_tree_sea",
+  "step": "surface_structures",
+  "spawn_overrides": {},
+  "terrain_adaptation": "none"
+}

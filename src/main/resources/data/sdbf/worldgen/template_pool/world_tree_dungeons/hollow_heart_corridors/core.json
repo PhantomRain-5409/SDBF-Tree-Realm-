@@ -1,0 +1,24 @@
+{
+  "name": "sdbf:world_tree_dungeons/hollow_heart_corridors/core",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "sdbf:world_tree_dungeons/hollow_heart_corridors/core_0",
+        "projection": "rigid",
+        "processors": "minecraft:empty"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "sdbf:world_tree_dungeons/hollow_heart_corridors/core_1",
+        "projection": "rigid",
+        "processors": "minecraft:empty"
+      }
+    }
+  ]
+}

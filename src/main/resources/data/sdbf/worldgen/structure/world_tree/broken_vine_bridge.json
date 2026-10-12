@@ -1,0 +1,18 @@
+{
+  "type": "sdbf:world_tree_small",
+  "kind": "bridge",
+  "templates": [
+    "sdbf:world_tree/broken_vine_bridge/intact",
+    "sdbf:world_tree/broken_vine_bridge/ruined",
+    "sdbf:world_tree/broken_vine_bridge/overgrown"
+  ],
+  "anchor": [
+    17,
+    3,
+    4
+  ],
+  "biomes": "#sdbf:world_tree_sea",
+  "step": "surface_structures",
+  "spawn_overrides": {},
+  "terrain_adaptation": "none"
+}

@@ -1,0 +1,18 @@
+{
+  "type": "sdbf:world_tree_small",
+  "kind": "root",
+  "templates": [
+    "sdbf:world_tree/resin_collection_station/intact",
+    "sdbf:world_tree/resin_collection_station/ruined",
+    "sdbf:world_tree/resin_collection_station/overgrown"
+  ],
+  "anchor": [
+    7,
+    2,
+    8
+  ],
+  "biomes": "#sdbf:world_tree_sea",
+  "step": "surface_structures",
+  "spawn_overrides": {},
+  "terrain_adaptation": "none"
+}

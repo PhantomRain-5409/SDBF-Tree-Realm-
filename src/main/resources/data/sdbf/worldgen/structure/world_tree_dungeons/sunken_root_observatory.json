@@ -1,0 +1,12 @@
+{
+  "type": "sdbf:world_tree_dungeon",
+  "kind": "abyss",
+  "start_pool": "sdbf:world_tree_dungeons/sunken_root_observatory/start",
+  "min_pieces": 28,
+  "max_pieces": 64,
+  "chest_budget": 5,
+  "biomes": "#sdbf:world_tree_sea",
+  "step": "surface_structures",
+  "terrain_adaptation": "none",
+  "spawn_overrides": {}
+}

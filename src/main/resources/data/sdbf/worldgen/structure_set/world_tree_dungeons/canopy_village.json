@@ -1,0 +1,18 @@
+{
+  "structures": [
+    {
+      "structure": "sdbf:world_tree_dungeons/canopy_village",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 36,
+    "separation": 18,
+    "salt": 510510,
+    "exclusion_zone": {
+      "other_set": "sdbf:world_tree/crown",
+      "chunk_count": 3
+    }
+  }
+}

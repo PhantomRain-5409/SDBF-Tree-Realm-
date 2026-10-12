@@ -1,0 +1,6 @@
+{
+  "pack": {
+    "description": {"translate": "pack.sdbf.description"},
+    "pack_format": 15
+  }
+}

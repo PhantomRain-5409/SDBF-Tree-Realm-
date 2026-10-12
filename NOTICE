@@ -1,0 +1,12 @@
+Tree Realm (sdbf)
+Maintainer: PhantomRain
+License: GPL-3.0-only
+
+The tree terrain and structure algorithms, templates and associated datapack
+resources were adapted from the supplied SlashBlade-SenDims workspace and
+sdbf datapack. Original world generation package:
+com.tonywww.slashblade_sendims.worldgen
+
+The supplied reference sources and their original notices remain under raw/.
+This project extracts only the tree realm and replaces external materials,
+entities and loot for standalone testing. It does not bundle other mods.

@@ -1,0 +1,18 @@
+{
+  "type": "sdbf:world_tree_small",
+  "kind": "canopy",
+  "templates": [
+    "sdbf:world_tree/canopy_lookout/intact",
+    "sdbf:world_tree/canopy_lookout/ruined",
+    "sdbf:world_tree/canopy_lookout/overgrown"
+  ],
+  "anchor": [
+    6,
+    3,
+    6
+  ],
+  "biomes": "#sdbf:world_tree_sea",
+  "step": "surface_structures",
+  "spawn_overrides": {},
+  "terrain_adaptation": "none"
+}

@@ -1,0 +1,33 @@
+{
+  "name": "sdbf:world_tree_dungeons/sunken_root_observatory/branch_2",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 3,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "sdbf:world_tree_dungeons/sunken_root_observatory/branch_2_0",
+        "projection": "rigid",
+        "processors": "minecraft:empty"
+      }
+    },
+    {
+      "weight": 2,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "sdbf:world_tree_dungeons/sunken_root_observatory/branch_2_1",
+        "projection": "rigid",
+        "processors": "minecraft:empty"
+      }
+    },
+    {
+      "weight": 2,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "sdbf:world_tree_dungeons/sunken_root_observatory/branch_2_2",
+        "projection": "rigid",
+        "processors": "minecraft:empty"
+      }
+    }
+  ]
+}

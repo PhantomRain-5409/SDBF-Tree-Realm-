@@ -1,0 +1,15 @@
+{
+  "name": "sdbf:world_tree_dungeons/sunken_root_observatory/start",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "sdbf:world_tree_dungeons/sunken_root_observatory/entrance",
+        "projection": "rigid",
+        "processors": "minecraft:empty"
+      }
+    }
+  ]
+}

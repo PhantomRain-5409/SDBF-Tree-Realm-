@@ -1,0 +1,57 @@
+{
+  "type": "sdbf:tree_realm",
+  "generator": {
+    "type": "sdbf:world_tree_sea",
+    "biome_source": {
+      "type": "sdbf:world_tree_sea",
+      "roots": "sdbf:world_tree_roots",
+      "shallows": "sdbf:world_tree_shallows",
+      "depths": "sdbf:world_tree_depths",
+      "layout_seed": 20261004,
+      "sea_level": 64,
+      "tree_spacing": 360,
+      "crown_radius": 289
+    },
+    "wood": {
+      "Name": "minecraft:dark_oak_wood"
+    },
+    "leaves": {
+      "Name": "minecraft:dark_oak_leaves",
+      "Properties": {
+        "persistent": "true",
+        "distance": "7"
+      }
+    },
+    "soils": [
+      {
+        "Name": "minecraft:grass_block"
+      },
+      {
+        "Name": "minecraft:podzol"
+      },
+      {
+        "Name": "minecraft:grass_block"
+      },
+      {
+        "Name": "minecraft:coarse_dirt"
+      },
+      {
+        "Name": "minecraft:rooted_dirt"
+      }
+    ],
+    "crystal": {
+      "Name": "minecraft:amethyst_cluster",
+      "Properties": {
+        "waterlogged": "true",
+        "facing": "up"
+      }
+    },
+    "filled_log": {
+      "Name": "minecraft:dark_oak_log",
+      "Properties": {
+        "axis": "y"
+      }
+    },
+    "sunken_stumps": true
+  }
+}

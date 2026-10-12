@@ -1,0 +1,12 @@
+{
+  "type": "sdbf:world_tree_dungeon",
+  "kind": "hollow",
+  "start_pool": "sdbf:world_tree_dungeons/hollow_heart_corridors/start",
+  "min_pieces": 24,
+  "max_pieces": 56,
+  "chest_budget": 4,
+  "biomes": "#sdbf:world_tree_sea",
+  "step": "surface_structures",
+  "terrain_adaptation": "none",
+  "spawn_overrides": {}
+}

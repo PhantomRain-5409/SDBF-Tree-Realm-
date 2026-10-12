@@ -1,0 +1,18 @@
+{
+  "type": "sdbf:world_tree_small",
+  "kind": "depth",
+  "templates": [
+    "sdbf:world_tree/submerged_sampling_capsule/intact",
+    "sdbf:world_tree/submerged_sampling_capsule/ruined",
+    "sdbf:world_tree/submerged_sampling_capsule/overgrown"
+  ],
+  "anchor": [
+    7,
+    1,
+    9
+  ],
+  "biomes": "#sdbf:world_tree_sea",
+  "step": "surface_structures",
+  "spawn_overrides": {},
+  "terrain_adaptation": "none"
+}
