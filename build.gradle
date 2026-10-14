@@ -40,7 +40,7 @@ minecraft {
         }
 
         gameTestServer {
-            workingDirectory project.file('run/ecology-1.0.9-test')
+            workingDirectory project.file('run/ecology-1.0.10-test')
             property 'forge.enabledGameTestNamespaces', mod_id
             property 'sdbf.testData', project.file('src/main/resources/data/sdbf').absolutePath
             mods {

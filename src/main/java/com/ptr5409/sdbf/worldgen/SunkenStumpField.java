@@ -92,7 +92,7 @@ final class SunkenStumpField {
     }
     /** 断面随机积水：连通的不规则浅坑，检查池底、池岸后才保留。 */
     private List<Pool> createPools(WorldTreeField.Tree tree,int top,Random random){
-        int roll=random.nextInt(100),count=roll<40?0:roll<85?1:roll<98?2:3;
+        int roll=random.nextInt(100),count=roll<32?0:roll<82?1:roll<97?2:3;
         List<Pool> pools=new ArrayList<>();Set<Long> occupied=new HashSet<>();
         var center=tree.trunkCenter(top);
         for(int i=0;i<count;i++){
